@@ -7,49 +7,217 @@
         {
           "week": 1,
           "days": [
-            {"day": 1, "task": "Review React Native functional components and hooks", "details": "Detailed instructions for Review React Native functional components and hooks", "completed": false, "notes": ""},
-            {"day": 2, "task": "Refactor existing project code", "details": "Detailed instructions for Refactor existing project code", "completed": false, "notes": ""},
-            {"day": 3, "task": "Practice navigation with React Navigation", "details": "Detailed instructions for Practice navigation with React Navigation", "completed": false, "notes": ""},
-            {"day": 4, "task": "Integrate Redux/RTK in a small feature", "details": "Detailed instructions for Integrate Redux/RTK in a small feature", "completed": false, "notes": ""},
-            {"day": 5, "task": "Implement API integration in a sample project", "details": "Detailed instructions for Implement API integration in a sample project", "completed": false, "notes": ""},
-            {"day": 6, "task": "Debug and profile React Native project", "details": "Detailed instructions for Debug and profile React Native project", "completed": false, "notes": ""},
-            {"day": 7, "task": "Mini-project: Build a small React Native feature", "details": "Detailed instructions for Mini-project: Build a small React Native feature", "completed": false, "notes": ""}
+            {
+              "day": 1,
+              "task": "Review React Native functional components and hooks",
+              "details": "Detailed instructions for Review React Native functional components and hooks",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 2,
+              "task": "Refactor existing project code",
+              "details": "Detailed instructions for Refactor existing project code",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 3,
+              "task": "Practice navigation with React Navigation",
+              "details": "Detailed instructions for Practice navigation with React Navigation",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 4,
+              "task": "Integrate Redux/RTK in a small feature",
+              "details": "Detailed instructions for Integrate Redux/RTK in a small feature",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 5,
+              "task": "Implement API integration in a sample project",
+              "details": "Detailed instructions for Implement API integration in a sample project",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 6,
+              "task": "Debug and profile React Native project",
+              "details": "Detailed instructions for Debug and profile React Native project",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 7,
+              "task": "Mini-project: Build a small React Native feature",
+              "details": "Detailed instructions for Mini-project: Build a small React Native feature",
+              "completed": false,
+              "notes": ""
+            }
           ]
         },
         {
           "week": 2,
           "days": [
-            {"day": 8, "task": "Review React Native functional components and hooks", "details": "Detailed instructions for Review React Native functional components and hooks", "completed": false, "notes": ""},
-            {"day": 9, "task": "Refactor existing project code", "details": "Detailed instructions for Refactor existing project code", "completed": false, "notes": ""},
-            {"day": 10, "task": "Practice navigation with React Navigation", "details": "Detailed instructions for Practice navigation with React Navigation", "completed": false, "notes": ""},
-            {"day": 11, "task": "Integrate Redux/RTK in a small feature", "details": "Detailed instructions for Integrate Redux/RTK in a small feature", "completed": false, "notes": ""},
-            {"day": 12, "task": "Implement API integration in a sample project", "details": "Detailed instructions for Implement API integration in a sample project", "completed": false, "notes": ""},
-            {"day": 13, "task": "Debug and profile React Native project", "details": "Detailed instructions for Debug and profile React Native project", "completed": false, "notes": ""},
-            {"day": 14, "task": "Mini-project: Build a small React Native feature", "details": "Detailed instructions for Mini-project: Build a small React Native feature", "completed": false, "notes": ""}
+            {
+              "day": 8,
+              "task": "Review React Native functional components and hooks",
+              "details": "Detailed instructions for Review React Native functional components and hooks",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 9,
+              "task": "Refactor existing project code",
+              "details": "Detailed instructions for Refactor existing project code",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 10,
+              "task": "Practice navigation with React Navigation",
+              "details": "Detailed instructions for Practice navigation with React Navigation",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 11,
+              "task": "Integrate Redux/RTK in a small feature",
+              "details": "Detailed instructions for Integrate Redux/RTK in a small feature",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 12,
+              "task": "Implement API integration in a sample project",
+              "details": "Detailed instructions for Implement API integration in a sample project",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 13,
+              "task": "Debug and profile React Native project",
+              "details": "Detailed instructions for Debug and profile React Native project",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 14,
+              "task": "Mini-project: Build a small React Native feature",
+              "details": "Detailed instructions for Mini-project: Build a small React Native feature",
+              "completed": false,
+              "notes": ""
+            }
           ]
         },
         {
           "week": 3,
           "days": [
-            {"day": 15, "task": "Review React Native functional components and hooks", "details": "Detailed instructions for Review React Native functional components and hooks", "completed": false, "notes": ""},
-            {"day": 16, "task": "Refactor existing project code", "details": "Detailed instructions for Refactor existing project code", "completed": false, "notes": ""},
-            {"day": 17, "task": "Practice navigation with React Navigation", "details": "Detailed instructions for Practice navigation with React Navigation", "completed": false, "notes": ""},
-            {"day": 18, "task": "Integrate Redux/RTK in a small feature", "details": "Detailed instructions for Integrate Redux/RTK in a small feature", "completed": false, "notes": ""},
-            {"day": 19, "task": "Implement API integration in a sample project", "details": "Detailed instructions for Implement API integration in a sample project", "completed": false, "notes": ""},
-            {"day": 20, "task": "Debug and profile React Native project", "details": "Detailed instructions for Debug and profile React Native project", "completed": false, "notes": ""},
-            {"day": 21, "task": "Mini-project: Build a small React Native feature", "details": "Detailed instructions for Mini-project: Build a small React Native feature", "completed": false, "notes": ""}
+            {
+              "day": 15,
+              "task": "Review React Native functional components and hooks",
+              "details": "Detailed instructions for Review React Native functional components and hooks",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 16,
+              "task": "Refactor existing project code",
+              "details": "Detailed instructions for Refactor existing project code",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 17,
+              "task": "Practice navigation with React Navigation",
+              "details": "Detailed instructions for Practice navigation with React Navigation",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 18,
+              "task": "Integrate Redux/RTK in a small feature",
+              "details": "Detailed instructions for Integrate Redux/RTK in a small feature",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 19,
+              "task": "Implement API integration in a sample project",
+              "details": "Detailed instructions for Implement API integration in a sample project",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 20,
+              "task": "Debug and profile React Native project",
+              "details": "Detailed instructions for Debug and profile React Native project",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 21,
+              "task": "Mini-project: Build a small React Native feature",
+              "details": "Detailed instructions for Mini-project: Build a small React Native feature",
+              "completed": false,
+              "notes": ""
+            }
           ]
         },
         {
           "week": 4,
           "days": [
-            {"day": 22, "task": "Review React Native functional components and hooks", "details": "Detailed instructions for Review React Native functional components and hooks", "completed": false, "notes": ""},
-            {"day": 23, "task": "Refactor existing project code", "details": "Detailed instructions for Refactor existing project code", "completed": false, "notes": ""},
-            {"day": 24, "task": "Practice navigation with React Navigation", "details": "Detailed instructions for Practice navigation with React Navigation", "completed": false, "notes": ""},
-            {"day": 25, "task": "Integrate Redux/RTK in a small feature", "details": "Detailed instructions for Integrate Redux/RTK in a small feature", "completed": false, "notes": ""},
-            {"day": 26, "task": "Implement API integration in a sample project", "details": "Detailed instructions for Implement API integration in a sample project", "completed": false, "notes": ""},
-            {"day": 27, "task": "Debug and profile React Native project", "details": "Detailed instructions for Debug and profile React Native project", "completed": false, "notes": ""},
-            {"day": 28, "task": "Mini-project: Build a small React Native feature", "details": "Detailed instructions for Mini-project: Build a small React Native feature", "completed": false, "notes": ""}
+            {
+              "day": 22,
+              "task": "Review React Native functional components and hooks",
+              "details": "Detailed instructions for Review React Native functional components and hooks",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 23,
+              "task": "Refactor existing project code",
+              "details": "Detailed instructions for Refactor existing project code",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 24,
+              "task": "Practice navigation with React Navigation",
+              "details": "Detailed instructions for Practice navigation with React Navigation",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 25,
+              "task": "Integrate Redux/RTK in a small feature",
+              "details": "Detailed instructions for Integrate Redux/RTK in a small feature",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 26,
+              "task": "Implement API integration in a sample project",
+              "details": "Detailed instructions for Implement API integration in a sample project",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 27,
+              "task": "Debug and profile React Native project",
+              "details": "Detailed instructions for Debug and profile React Native project",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 28,
+              "task": "Mini-project: Build a small React Native feature",
+              "details": "Detailed instructions for Mini-project: Build a small React Native feature",
+              "completed": false,
+              "notes": ""
+            }
           ]
         }
       ]
@@ -61,49 +229,217 @@
         {
           "week": 1,
           "days": [
-            {"day": 29, "task": "Flutter widget tree & layouts", "details": "Detailed instructions for Flutter widget tree & layouts", "completed": false, "notes": ""},
-            {"day": 30, "task": "Build UI clone in Flutter", "details": "Detailed instructions for Build UI clone in Flutter", "completed": false, "notes": ""},
-            {"day": 31, "task": "Flutter state management: Provider", "details": "Detailed instructions for Flutter state management: Provider", "completed": false, "notes": ""},
-            {"day": 32, "task": "Flutter state management: Riverpod", "details": "Detailed instructions for Flutter state management: Riverpod", "completed": false, "notes": ""},
-            {"day": 33, "task": "Flutter state management: BLoC", "details": "Detailed instructions for Flutter state management: BLoC", "completed": false, "notes": ""},
-            {"day": 34, "task": "Firebase integration", "details": "Detailed instructions for Firebase integration", "completed": false, "notes": ""},
-            {"day": 35, "task": "REST API integration in Flutter", "details": "Detailed instructions for REST API integration in Flutter", "completed": false, "notes": ""}
+            {
+              "day": 29,
+              "task": "Flutter widget tree & layouts",
+              "details": "Detailed instructions for Flutter widget tree & layouts",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 30,
+              "task": "Build UI clone in Flutter",
+              "details": "Detailed instructions for Build UI clone in Flutter",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 31,
+              "task": "Flutter state management: Provider",
+              "details": "Detailed instructions for Flutter state management: Provider",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 32,
+              "task": "Flutter state management: Riverpod",
+              "details": "Detailed instructions for Flutter state management: Riverpod",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 33,
+              "task": "Flutter state management: BLoC",
+              "details": "Detailed instructions for Flutter state management: BLoC",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 34,
+              "task": "Firebase integration",
+              "details": "Detailed instructions for Firebase integration",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 35,
+              "task": "REST API integration in Flutter",
+              "details": "Detailed instructions for REST API integration in Flutter",
+              "completed": false,
+              "notes": ""
+            }
           ]
         },
         {
           "week": 2,
           "days": [
-            {"day": 36, "task": "Flutter widget tree & layouts", "details": "Detailed instructions for Flutter widget tree & layouts", "completed": false, "notes": ""},
-            {"day": 37, "task": "Build UI clone in Flutter", "details": "Detailed instructions for Build UI clone in Flutter", "completed": false, "notes": ""},
-            {"day": 38, "task": "Flutter state management: Provider", "details": "Detailed instructions for Flutter state management: Provider", "completed": false, "notes": ""},
-            {"day": 39, "task": "Flutter state management: Riverpod", "details": "Detailed instructions for Flutter state management: Riverpod", "completed": false, "notes": ""},
-            {"day": 40, "task": "Flutter state management: BLoC", "details": "Detailed instructions for Flutter state management: BLoC", "completed": false, "notes": ""},
-            {"day": 41, "task": "Firebase integration", "details": "Detailed instructions for Firebase integration", "completed": false, "notes": ""},
-            {"day": 42, "task": "REST API integration in Flutter", "details": "Detailed instructions for REST API integration in Flutter", "completed": false, "notes": ""}
+            {
+              "day": 36,
+              "task": "Flutter widget tree & layouts",
+              "details": "Detailed instructions for Flutter widget tree & layouts",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 37,
+              "task": "Build UI clone in Flutter",
+              "details": "Detailed instructions for Build UI clone in Flutter",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 38,
+              "task": "Flutter state management: Provider",
+              "details": "Detailed instructions for Flutter state management: Provider",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 39,
+              "task": "Flutter state management: Riverpod",
+              "details": "Detailed instructions for Flutter state management: Riverpod",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 40,
+              "task": "Flutter state management: BLoC",
+              "details": "Detailed instructions for Flutter state management: BLoC",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 41,
+              "task": "Firebase integration",
+              "details": "Detailed instructions for Firebase integration",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 42,
+              "task": "REST API integration in Flutter",
+              "details": "Detailed instructions for REST API integration in Flutter",
+              "completed": false,
+              "notes": ""
+            }
           ]
         },
         {
           "week": 3,
           "days": [
-            {"day": 43, "task": "Flutter widget tree & layouts", "details": "Detailed instructions for Flutter widget tree & layouts", "completed": false, "notes": ""},
-            {"day": 44, "task": "Build UI clone in Flutter", "details": "Detailed instructions for Build UI clone in Flutter", "completed": false, "notes": ""},
-            {"day": 45, "task": "Flutter state management: Provider", "details": "Detailed instructions for Flutter state management: Provider", "completed": false, "notes": ""},
-            {"day": 46, "task": "Flutter state management: Riverpod", "details": "Detailed instructions for Flutter state management: Riverpod", "completed": false, "notes": ""},
-            {"day": 47, "task": "Flutter state management: BLoC", "details": "Detailed instructions for Flutter state management: BLoC", "completed": false, "notes": ""},
-            {"day": 48, "task": "Firebase integration", "details": "Detailed instructions for Firebase integration", "completed": false, "notes": ""},
-            {"day": 49, "task": "REST API integration in Flutter", "details": "Detailed instructions for REST API integration in Flutter", "completed": false, "notes": ""}
+            {
+              "day": 43,
+              "task": "Flutter widget tree & layouts",
+              "details": "Detailed instructions for Flutter widget tree & layouts",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 44,
+              "task": "Build UI clone in Flutter",
+              "details": "Detailed instructions for Build UI clone in Flutter",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 45,
+              "task": "Flutter state management: Provider",
+              "details": "Detailed instructions for Flutter state management: Provider",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 46,
+              "task": "Flutter state management: Riverpod",
+              "details": "Detailed instructions for Flutter state management: Riverpod",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 47,
+              "task": "Flutter state management: BLoC",
+              "details": "Detailed instructions for Flutter state management: BLoC",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 48,
+              "task": "Firebase integration",
+              "details": "Detailed instructions for Firebase integration",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 49,
+              "task": "REST API integration in Flutter",
+              "details": "Detailed instructions for REST API integration in Flutter",
+              "completed": false,
+              "notes": ""
+            }
           ]
         },
         {
           "week": 4,
           "days": [
-            {"day": 50, "task": "Flutter widget tree & layouts", "details": "Detailed instructions for Flutter widget tree & layouts", "completed": false, "notes": ""},
-            {"day": 51, "task": "Build UI clone in Flutter", "details": "Detailed instructions for Build UI clone in Flutter", "completed": false, "notes": ""},
-            {"day": 52, "task": "Flutter state management: Provider", "details": "Detailed instructions for Flutter state management: Provider", "completed": false, "notes": ""},
-            {"day": 53, "task": "Flutter state management: Riverpod", "details": "Detailed instructions for Flutter state management: Riverpod", "completed": false, "notes": ""},
-            {"day": 54, "task": "Flutter state management: BLoC", "details": "Detailed instructions for Flutter state management: BLoC", "completed": false, "notes": ""},
-            {"day": 55, "task": "Firebase integration", "details": "Detailed instructions for Firebase integration", "completed": false, "notes": ""},
-            {"day": 56, "task": "REST API integration in Flutter", "details": "Detailed instructions for REST API integration in Flutter", "completed": false, "notes": ""}
+            {
+              "day": 50,
+              "task": "Flutter widget tree & layouts",
+              "details": "Detailed instructions for Flutter widget tree & layouts",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 51,
+              "task": "Build UI clone in Flutter",
+              "details": "Detailed instructions for Build UI clone in Flutter",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 52,
+              "task": "Flutter state management: Provider",
+              "details": "Detailed instructions for Flutter state management: Provider",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 53,
+              "task": "Flutter state management: Riverpod",
+              "details": "Detailed instructions for Flutter state management: Riverpod",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 54,
+              "task": "Flutter state management: BLoC",
+              "details": "Detailed instructions for Flutter state management: BLoC",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 55,
+              "task": "Firebase integration",
+              "details": "Detailed instructions for Firebase integration",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 56,
+              "task": "REST API integration in Flutter",
+              "details": "Detailed instructions for REST API integration in Flutter",
+              "completed": false,
+              "notes": ""
+            }
           ]
         }
       ]
@@ -115,49 +451,217 @@
         {
           "week": 1,
           "days": [
-            {"day": 57, "task": "Flutter animations: implicit & explicit", "details": "Detailed instructions for Flutter animations: implicit & explicit", "completed": false, "notes": ""},
-            {"day": 58, "task": "Lottie animations integration", "details": "Detailed instructions for Lottie animations integration", "completed": false, "notes": ""},
-            {"day": 59, "task": "Handle platform-specific issues", "details": "Detailed instructions for Handle platform-specific issues", "completed": false, "notes": ""},
-            {"day": 60, "task": "Mini-project: Flutter dashboard", "details": "Detailed instructions for Mini-project: Flutter dashboard", "completed": false, "notes": ""},
-            {"day": 61, "task": "Debug and optimize Flutter app", "details": "Detailed instructions for Debug and optimize Flutter app", "completed": false, "notes": ""},
-            {"day": 62, "task": "Write documentation & flow diagrams", "details": "Detailed instructions for Write documentation & flow diagrams", "completed": false, "notes": ""},
-            {"day": 63, "task": "Push project to GitHub", "details": "Detailed instructions for Push project to GitHub", "completed": false, "notes": ""}
+            {
+              "day": 57,
+              "task": "Flutter animations: implicit & explicit",
+              "details": "Detailed instructions for Flutter animations: implicit & explicit",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 58,
+              "task": "Lottie animations integration",
+              "details": "Detailed instructions for Lottie animations integration",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 59,
+              "task": "Handle platform-specific issues",
+              "details": "Detailed instructions for Handle platform-specific issues",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 60,
+              "task": "Mini-project: Flutter dashboard",
+              "details": "Detailed instructions for Mini-project: Flutter dashboard",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 61,
+              "task": "Debug and optimize Flutter app",
+              "details": "Detailed instructions for Debug and optimize Flutter app",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 62,
+              "task": "Write documentation & flow diagrams",
+              "details": "Detailed instructions for Write documentation & flow diagrams",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 63,
+              "task": "Push project to GitHub",
+              "details": "Detailed instructions for Push project to GitHub",
+              "completed": false,
+              "notes": ""
+            }
           ]
         },
         {
           "week": 2,
           "days": [
-            {"day": 64, "task": "Flutter animations: implicit & explicit", "details": "Detailed instructions for Flutter animations: implicit & explicit", "completed": false, "notes": ""},
-            {"day": 65, "task": "Lottie animations integration", "details": "Detailed instructions for Lottie animations integration", "completed": false, "notes": ""},
-            {"day": 66, "task": "Handle platform-specific issues", "details": "Detailed instructions for Handle platform-specific issues", "completed": false, "notes": ""},
-            {"day": 67, "task": "Mini-project: Flutter dashboard", "details": "Detailed instructions for Mini-project: Flutter dashboard", "completed": false, "notes": ""},
-            {"day": 68, "task": "Debug and optimize Flutter app", "details": "Detailed instructions for Debug and optimize Flutter app", "completed": false, "notes": ""},
-            {"day": 69, "task": "Write documentation & flow diagrams", "details": "Detailed instructions for Write documentation & flow diagrams", "completed": false, "notes": ""},
-            {"day": 70, "task": "Push project to GitHub", "details": "Detailed instructions for Push project to GitHub", "completed": false, "notes": ""}
+            {
+              "day": 64,
+              "task": "Flutter animations: implicit & explicit",
+              "details": "Detailed instructions for Flutter animations: implicit & explicit",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 65,
+              "task": "Lottie animations integration",
+              "details": "Detailed instructions for Lottie animations integration",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 66,
+              "task": "Handle platform-specific issues",
+              "details": "Detailed instructions for Handle platform-specific issues",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 67,
+              "task": "Mini-project: Flutter dashboard",
+              "details": "Detailed instructions for Mini-project: Flutter dashboard",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 68,
+              "task": "Debug and optimize Flutter app",
+              "details": "Detailed instructions for Debug and optimize Flutter app",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 69,
+              "task": "Write documentation & flow diagrams",
+              "details": "Detailed instructions for Write documentation & flow diagrams",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 70,
+              "task": "Push project to GitHub",
+              "details": "Detailed instructions for Push project to GitHub",
+              "completed": false,
+              "notes": ""
+            }
           ]
         },
         {
           "week": 3,
           "days": [
-            {"day": 71, "task": "Flutter animations: implicit & explicit", "details": "Detailed instructions for Flutter animations: implicit & explicit", "completed": false, "notes": ""},
-            {"day": 72, "task": "Lottie animations integration", "details": "Detailed instructions for Lottie animations integration", "completed": false, "notes": ""},
-            {"day": 73, "task": "Handle platform-specific issues", "details": "Detailed instructions for Handle platform-specific issues", "completed": false, "notes": ""},
-            {"day": 74, "task": "Mini-project: Flutter dashboard", "details": "Detailed instructions for Mini-project: Flutter dashboard", "completed": false, "notes": ""},
-            {"day": 75, "task": "Debug and optimize Flutter app", "details": "Detailed instructions for Debug and optimize Flutter app", "completed": false, "notes": ""},
-            {"day": 76, "task": "Write documentation & flow diagrams", "details": "Detailed instructions for Write documentation & flow diagrams", "completed": false, "notes": ""},
-            {"day": 77, "task": "Push project to GitHub", "details": "Detailed instructions for Push project to GitHub", "completed": false, "notes": ""}
+            {
+              "day": 71,
+              "task": "Flutter animations: implicit & explicit",
+              "details": "Detailed instructions for Flutter animations: implicit & explicit",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 72,
+              "task": "Lottie animations integration",
+              "details": "Detailed instructions for Lottie animations integration",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 73,
+              "task": "Handle platform-specific issues",
+              "details": "Detailed instructions for Handle platform-specific issues",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 74,
+              "task": "Mini-project: Flutter dashboard",
+              "details": "Detailed instructions for Mini-project: Flutter dashboard",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 75,
+              "task": "Debug and optimize Flutter app",
+              "details": "Detailed instructions for Debug and optimize Flutter app",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 76,
+              "task": "Write documentation & flow diagrams",
+              "details": "Detailed instructions for Write documentation & flow diagrams",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 77,
+              "task": "Push project to GitHub",
+              "details": "Detailed instructions for Push project to GitHub",
+              "completed": false,
+              "notes": ""
+            }
           ]
         },
         {
           "week": 4,
           "days": [
-            {"day": 78, "task": "Flutter animations: implicit & explicit", "details": "Detailed instructions for Flutter animations: implicit & explicit", "completed": false, "notes": ""},
-            {"day": 79, "task": "Lottie animations integration", "details": "Detailed instructions for Lottie animations integration", "completed": false, "notes": ""},
-            {"day": 80, "task": "Handle platform-specific issues", "details": "Detailed instructions for Handle platform-specific issues", "completed": false, "notes": ""},
-            {"day": 81, "task": "Mini-project: Flutter dashboard", "details": "Detailed instructions for Mini-project: Flutter dashboard", "completed": false, "notes": ""},
-            {"day": 82, "task": "Debug and optimize Flutter app", "details": "Detailed instructions for Debug and optimize Flutter app", "completed": false, "notes": ""},
-            {"day": 83, "task": "Write documentation & flow diagrams", "details": "Detailed instructions for Write documentation & flow diagrams", "completed": false, "notes": ""},
-            {"day": 84, "task": "Push project to GitHub", "details": "Detailed instructions for Push project to GitHub", "completed": false, "notes": ""}
+            {
+              "day": 78,
+              "task": "Flutter animations: implicit & explicit",
+              "details": "Detailed instructions for Flutter animations: implicit & explicit",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 79,
+              "task": "Lottie animations integration",
+              "details": "Detailed instructions for Lottie animations integration",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 80,
+              "task": "Handle platform-specific issues",
+              "details": "Detailed instructions for Handle platform-specific issues",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 81,
+              "task": "Mini-project: Flutter dashboard",
+              "details": "Detailed instructions for Mini-project: Flutter dashboard",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 82,
+              "task": "Debug and optimize Flutter app",
+              "details": "Detailed instructions for Debug and optimize Flutter app",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 83,
+              "task": "Write documentation & flow diagrams",
+              "details": "Detailed instructions for Write documentation & flow diagrams",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 84,
+              "task": "Push project to GitHub",
+              "details": "Detailed instructions for Push project to GitHub",
+              "completed": false,
+              "notes": ""
+            }
           ]
         }
       ]
@@ -169,49 +673,217 @@
         {
           "week": 1,
           "days": [
-            {"day": 85, "task": "React.js hooks & context review", "details": "Detailed instructions for React.js hooks & context review", "completed": false, "notes": ""},
-            {"day": 86, "task": "React.js Redux integration", "details": "Detailed instructions for React.js Redux integration", "completed": false, "notes": ""},
-            {"day": 87, "task": "Build React.js UI clone", "details": "Detailed instructions for Build React.js UI clone", "completed": false, "notes": ""},
-            {"day": 88, "task": "Client-side routing", "details": "Detailed instructions for Client-side routing", "completed": false, "notes": ""},
-            {"day": 89, "task": "API integration in React.js", "details": "Detailed instructions for API integration in React.js", "completed": false, "notes": ""},
-            {"day": 90, "task": "Unit testing with Jest & RTL", "details": "Detailed instructions for Unit testing with Jest & RTL", "completed": false, "notes": ""},
-            {"day": 91, "task": "Mini-project: React.js dashboard", "details": "Detailed instructions for Mini-project: React.js dashboard", "completed": false, "notes": ""}
+            {
+              "day": 85,
+              "task": "React.js hooks & context review",
+              "details": "Detailed instructions for React.js hooks & context review",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 86,
+              "task": "React.js Redux integration",
+              "details": "Detailed instructions for React.js Redux integration",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 87,
+              "task": "Build React.js UI clone",
+              "details": "Detailed instructions for Build React.js UI clone",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 88,
+              "task": "Client-side routing",
+              "details": "Detailed instructions for Client-side routing",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 89,
+              "task": "API integration in React.js",
+              "details": "Detailed instructions for API integration in React.js",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 90,
+              "task": "Unit testing with Jest & RTL",
+              "details": "Detailed instructions for Unit testing with Jest & RTL",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 91,
+              "task": "Mini-project: React.js dashboard",
+              "details": "Detailed instructions for Mini-project: React.js dashboard",
+              "completed": false,
+              "notes": ""
+            }
           ]
         },
         {
           "week": 2,
           "days": [
-            {"day": 92, "task": "React.js hooks & context review", "details": "Detailed instructions for React.js hooks & context review", "completed": false, "notes": ""},
-            {"day": 93, "task": "React.js Redux integration", "details": "Detailed instructions for React.js Redux integration", "completed": false, "notes": ""},
-            {"day": 94, "task": "Build React.js UI clone", "details": "Detailed instructions for Build React.js UI clone", "completed": false, "notes": ""},
-            {"day": 95, "task": "Client-side routing", "details": "Detailed instructions for Client-side routing", "completed": false, "notes": ""},
-            {"day": 96, "task": "API integration in React.js", "details": "Detailed instructions for API integration in React.js", "completed": false, "notes": ""},
-            {"day": 97, "task": "Unit testing with Jest & RTL", "details": "Detailed instructions for Unit testing with Jest & RTL", "completed": false, "notes": ""},
-            {"day": 98, "task": "Mini-project: React.js dashboard", "details": "Detailed instructions for Mini-project: React.js dashboard", "completed": false, "notes": ""}
+            {
+              "day": 92,
+              "task": "React.js hooks & context review",
+              "details": "Detailed instructions for React.js hooks & context review",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 93,
+              "task": "React.js Redux integration",
+              "details": "Detailed instructions for React.js Redux integration",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 94,
+              "task": "Build React.js UI clone",
+              "details": "Detailed instructions for Build React.js UI clone",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 95,
+              "task": "Client-side routing",
+              "details": "Detailed instructions for Client-side routing",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 96,
+              "task": "API integration in React.js",
+              "details": "Detailed instructions for API integration in React.js",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 97,
+              "task": "Unit testing with Jest & RTL",
+              "details": "Detailed instructions for Unit testing with Jest & RTL",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 98,
+              "task": "Mini-project: React.js dashboard",
+              "details": "Detailed instructions for Mini-project: React.js dashboard",
+              "completed": false,
+              "notes": ""
+            }
           ]
         },
         {
           "week": 3,
           "days": [
-            {"day": 99, "task": "React.js hooks & context review", "details": "Detailed instructions for React.js hooks & context review", "completed": false, "notes": ""},
-            {"day": 100, "task": "React.js Redux integration", "details": "Detailed instructions for React.js Redux integration", "completed": false, "notes": ""},
-            {"day": 101, "task": "Build React.js UI clone", "details": "Detailed instructions for Build React.js UI clone", "completed": false, "notes": ""},
-            {"day": 102, "task": "Client-side routing", "details": "Detailed instructions for Client-side routing", "completed": false, "notes": ""},
-            {"day": 103, "task": "API integration in React.js", "details": "Detailed instructions for API integration in React.js", "completed": false, "notes": ""},
-            {"day": 104, "task": "Unit testing with Jest & RTL", "details": "Detailed instructions for Unit testing with Jest & RTL", "completed": false, "notes": ""},
-            {"day": 105, "task": "Mini-project: React.js dashboard", "details": "Detailed instructions for Mini-project: React.js dashboard", "completed": false, "notes": ""}
+            {
+              "day": 99,
+              "task": "React.js hooks & context review",
+              "details": "Detailed instructions for React.js hooks & context review",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 100,
+              "task": "React.js Redux integration",
+              "details": "Detailed instructions for React.js Redux integration",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 101,
+              "task": "Build React.js UI clone",
+              "details": "Detailed instructions for Build React.js UI clone",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 102,
+              "task": "Client-side routing",
+              "details": "Detailed instructions for Client-side routing",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 103,
+              "task": "API integration in React.js",
+              "details": "Detailed instructions for API integration in React.js",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 104,
+              "task": "Unit testing with Jest & RTL",
+              "details": "Detailed instructions for Unit testing with Jest & RTL",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 105,
+              "task": "Mini-project: React.js dashboard",
+              "details": "Detailed instructions for Mini-project: React.js dashboard",
+              "completed": false,
+              "notes": ""
+            }
           ]
         },
         {
           "week": 4,
           "days": [
-            {"day": 106, "task": "React.js hooks & context review", "details": "Detailed instructions for React.js hooks & context review", "completed": false, "notes": ""},
-            {"day": 107, "task": "React.js Redux integration", "details": "Detailed instructions for React.js Redux integration", "completed": false, "notes": ""},
-            {"day": 108, "task": "Build React.js UI clone", "details": "Detailed instructions for Build React.js UI clone", "completed": false, "notes": ""},
-            {"day": 109, "task": "Client-side routing", "details": "Detailed instructions for Client-side routing", "completed": false, "notes": ""},
-            {"day": 110, "task": "API integration in React.js", "details": "Detailed instructions for API integration in React.js", "completed": false, "notes": ""},
-            {"day": 111, "task": "Unit testing with Jest & RTL", "details": "Detailed instructions for Unit testing with Jest & RTL", "completed": false, "notes": ""},
-            {"day": 112, "task": "Mini-project: React.js dashboard", "details": "Detailed instructions for Mini-project: React.js dashboard", "completed": false, "notes": ""}
+            {
+              "day": 106,
+              "task": "React.js hooks & context review",
+              "details": "Detailed instructions for React.js hooks & context review",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 107,
+              "task": "React.js Redux integration",
+              "details": "Detailed instructions for React.js Redux integration",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 108,
+              "task": "Build React.js UI clone",
+              "details": "Detailed instructions for Build React.js UI clone",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 109,
+              "task": "Client-side routing",
+              "details": "Detailed instructions for Client-side routing",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 110,
+              "task": "API integration in React.js",
+              "details": "Detailed instructions for API integration in React.js",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 111,
+              "task": "Unit testing with Jest & RTL",
+              "details": "Detailed instructions for Unit testing with Jest & RTL",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 112,
+              "task": "Mini-project: React.js dashboard",
+              "details": "Detailed instructions for Mini-project: React.js dashboard",
+              "completed": false,
+              "notes": ""
+            }
           ]
         }
       ]
@@ -223,49 +895,217 @@
         {
           "week": 1,
           "days": [
-            {"day": 113, "task": "Build full-stack mini project", "details": "Detailed instructions for Build full-stack mini project", "completed": false, "notes": ""},
-            {"day": 114, "task": "Handle authentication & authorization", "details": "Detailed instructions for Handle authentication & authorization", "completed": false, "notes": ""},
-            {"day": 115, "task": "Add client-side validations & error handling", "details": "Detailed instructions for Add client-side validations & error handling", "completed": false, "notes": ""},
-            {"day": 116, "task": "Optimize React.js project", "details": "Detailed instructions for Optimize React.js project", "completed": false, "notes": ""},
-            {"day": 117, "task": "Write documentation & diagrams", "details": "Detailed instructions for Write documentation & diagrams", "completed": false, "notes": ""},
-            {"day": 118, "task": "Push project to GitHub", "details": "Detailed instructions for Push project to GitHub", "completed": false, "notes": ""},
-            {"day": 119, "task": "Prepare notes for interview & portfolio", "details": "Detailed instructions for Prepare notes for interview & portfolio", "completed": false, "notes": ""}
+            {
+              "day": 113,
+              "task": "Build full-stack mini project",
+              "details": "Detailed instructions for Build full-stack mini project",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 114,
+              "task": "Handle authentication & authorization",
+              "details": "Detailed instructions for Handle authentication & authorization",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 115,
+              "task": "Add client-side validations & error handling",
+              "details": "Detailed instructions for Add client-side validations & error handling",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 116,
+              "task": "Optimize React.js project",
+              "details": "Detailed instructions for Optimize React.js project",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 117,
+              "task": "Write documentation & diagrams",
+              "details": "Detailed instructions for Write documentation & diagrams",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 118,
+              "task": "Push project to GitHub",
+              "details": "Detailed instructions for Push project to GitHub",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 119,
+              "task": "Prepare notes for interview & portfolio",
+              "details": "Detailed instructions for Prepare notes for interview & portfolio",
+              "completed": false,
+              "notes": ""
+            }
           ]
         },
         {
           "week": 2,
           "days": [
-            {"day": 120, "task": "Build full-stack mini project", "details": "Detailed instructions for Build full-stack mini project", "completed": false, "notes": ""},
-            {"day": 121, "task": "Handle authentication & authorization", "details": "Detailed instructions for Handle authentication & authorization", "completed": false, "notes": ""},
-            {"day": 122, "task": "Add client-side validations & error handling", "details": "Detailed instructions for Add client-side validations & error handling", "completed": false, "notes": ""},
-            {"day": 123, "task": "Optimize React.js project", "details": "Detailed instructions for Optimize React.js project", "completed": false, "notes": ""},
-            {"day": 124, "task": "Write documentation & diagrams", "details": "Detailed instructions for Write documentation & diagrams", "completed": false, "notes": ""},
-            {"day": 125, "task": "Push project to GitHub", "details": "Detailed instructions for Push project to GitHub", "completed": false, "notes": ""},
-            {"day": 126, "task": "Prepare notes for interview & portfolio", "details": "Detailed instructions for Prepare notes for interview & portfolio", "completed": false, "notes": ""}
+            {
+              "day": 120,
+              "task": "Build full-stack mini project",
+              "details": "Detailed instructions for Build full-stack mini project",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 121,
+              "task": "Handle authentication & authorization",
+              "details": "Detailed instructions for Handle authentication & authorization",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 122,
+              "task": "Add client-side validations & error handling",
+              "details": "Detailed instructions for Add client-side validations & error handling",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 123,
+              "task": "Optimize React.js project",
+              "details": "Detailed instructions for Optimize React.js project",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 124,
+              "task": "Write documentation & diagrams",
+              "details": "Detailed instructions for Write documentation & diagrams",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 125,
+              "task": "Push project to GitHub",
+              "details": "Detailed instructions for Push project to GitHub",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 126,
+              "task": "Prepare notes for interview & portfolio",
+              "details": "Detailed instructions for Prepare notes for interview & portfolio",
+              "completed": false,
+              "notes": ""
+            }
           ]
         },
         {
           "week": 3,
           "days": [
-            {"day": 127, "task": "Build full-stack mini project", "details": "Detailed instructions for Build full-stack mini project", "completed": false, "notes": ""},
-            {"day": 128, "task": "Handle authentication & authorization", "details": "Detailed instructions for Handle authentication & authorization", "completed": false, "notes": ""},
-            {"day": 129, "task": "Add client-side validations & error handling", "details": "Detailed instructions for Add client-side validations & error handling", "completed": false, "notes": ""},
-            {"day": 130, "task": "Optimize React.js project", "details": "Detailed instructions for Optimize React.js project", "completed": false, "notes": ""},
-            {"day": 131, "task": "Write documentation & diagrams", "details": "Detailed instructions for Write documentation & diagrams", "completed": false, "notes": ""},
-            {"day": 132, "task": "Push project to GitHub", "details": "Detailed instructions for Push project to GitHub", "completed": false, "notes": ""},
-            {"day": 133, "task": "Prepare notes for interview & portfolio", "details": "Detailed instructions for Prepare notes for interview & portfolio", "completed": false, "notes": ""}
+            {
+              "day": 127,
+              "task": "Build full-stack mini project",
+              "details": "Detailed instructions for Build full-stack mini project",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 128,
+              "task": "Handle authentication & authorization",
+              "details": "Detailed instructions for Handle authentication & authorization",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 129,
+              "task": "Add client-side validations & error handling",
+              "details": "Detailed instructions for Add client-side validations & error handling",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 130,
+              "task": "Optimize React.js project",
+              "details": "Detailed instructions for Optimize React.js project",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 131,
+              "task": "Write documentation & diagrams",
+              "details": "Detailed instructions for Write documentation & diagrams",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 132,
+              "task": "Push project to GitHub",
+              "details": "Detailed instructions for Push project to GitHub",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 133,
+              "task": "Prepare notes for interview & portfolio",
+              "details": "Detailed instructions for Prepare notes for interview & portfolio",
+              "completed": false,
+              "notes": ""
+            }
           ]
         },
         {
           "week": 4,
           "days": [
-            {"day": 134, "task": "Build full-stack mini project", "details": "Detailed instructions for Build full-stack mini project", "completed": false, "notes": ""},
-            {"day": 135, "task": "Handle authentication & authorization", "details": "Detailed instructions for Handle authentication & authorization", "completed": false, "notes": ""},
-            {"day": 136, "task": "Add client-side validations & error handling", "details": "Detailed instructions for Add client-side validations & error handling", "completed": false, "notes": ""},
-            {"day": 137, "task": "Optimize React.js project", "details": "Detailed instructions for Optimize React.js project", "completed": false, "notes": ""},
-            {"day": 138, "task": "Write documentation & diagrams", "details": "Detailed instructions for Write documentation & diagrams", "completed": false, "notes": ""},
-            {"day": 139, "task": "Push project to GitHub", "details": "Detailed instructions for Push project to GitHub", "completed": false, "notes": ""},
-            {"day": 140, "task": "Prepare notes for interview & portfolio", "details": "Detailed instructions for Prepare notes for interview & portfolio", "completed": false, "notes": ""}
+            {
+              "day": 134,
+              "task": "Build full-stack mini project",
+              "details": "Detailed instructions for Build full-stack mini project",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 135,
+              "task": "Handle authentication & authorization",
+              "details": "Detailed instructions for Handle authentication & authorization",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 136,
+              "task": "Add client-side validations & error handling",
+              "details": "Detailed instructions for Add client-side validations & error handling",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 137,
+              "task": "Optimize React.js project",
+              "details": "Detailed instructions for Optimize React.js project",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 138,
+              "task": "Write documentation & diagrams",
+              "details": "Detailed instructions for Write documentation & diagrams",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 139,
+              "task": "Push project to GitHub",
+              "details": "Detailed instructions for Push project to GitHub",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 140,
+              "task": "Prepare notes for interview & portfolio",
+              "details": "Detailed instructions for Prepare notes for interview & portfolio",
+              "completed": false,
+              "notes": ""
+            }
           ]
         }
       ]
@@ -277,49 +1117,217 @@
         {
           "week": 1,
           "days": [
-            {"day": 141, "task": "Prepare portfolio site", "details": "Detailed instructions for Prepare portfolio site", "completed": false, "notes": ""},
-            {"day": 142, "task": "Write detailed project descriptions", "details": "Detailed instructions for Write detailed project descriptions", "completed": false, "notes": ""},
-            {"day": 143, "task": "Update resume", "details": "Detailed instructions for Update resume", "completed": false, "notes": ""},
-            {"day": 144, "task": "Prepare for interviews", "details": "Detailed instructions for Prepare for interviews", "completed": false, "notes": ""},
-            {"day": 145, "task": "Mock interviews", "details": "Detailed instructions for Mock interviews", "completed": false, "notes": ""},
-            {"day": 146, "task": "Revise all key concepts", "details": "Detailed instructions for Revise all key concepts", "completed": false, "notes": ""},
-            {"day": 147, "task": "Final portfolio polish", "details": "Detailed instructions for Final portfolio polish", "completed": false, "notes": ""}
+            {
+              "day": 141,
+              "task": "Prepare portfolio site",
+              "details": "Detailed instructions for Prepare portfolio site",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 142,
+              "task": "Write detailed project descriptions",
+              "details": "Detailed instructions for Write detailed project descriptions",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 143,
+              "task": "Update resume",
+              "details": "Detailed instructions for Update resume",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 144,
+              "task": "Prepare for interviews",
+              "details": "Detailed instructions for Prepare for interviews",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 145,
+              "task": "Mock interviews",
+              "details": "Detailed instructions for Mock interviews",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 146,
+              "task": "Revise all key concepts",
+              "details": "Detailed instructions for Revise all key concepts",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 147,
+              "task": "Final portfolio polish",
+              "details": "Detailed instructions for Final portfolio polish",
+              "completed": false,
+              "notes": ""
+            }
           ]
         },
         {
           "week": 2,
           "days": [
-            {"day": 148, "task": "Prepare portfolio site", "details": "Detailed instructions for Prepare portfolio site", "completed": false, "notes": ""},
-            {"day": 149, "task": "Write detailed project descriptions", "details": "Detailed instructions for Write detailed project descriptions", "completed": false, "notes": ""},
-            {"day": 150, "task": "Update resume", "details": "Detailed instructions for Update resume", "completed": false, "notes": ""},
-            {"day": 151, "task": "Prepare for interviews", "details": "Detailed instructions for Prepare for interviews", "completed": false, "notes": ""},
-            {"day": 152, "task": "Mock interviews", "details": "Detailed instructions for Mock interviews", "completed": false, "notes": ""},
-            {"day": 153, "task": "Revise all key concepts", "details": "Detailed instructions for Revise all key concepts", "completed": false, "notes": ""},
-            {"day": 154, "task": "Final portfolio polish", "details": "Detailed instructions for Final portfolio polish", "completed": false, "notes": ""}
+            {
+              "day": 148,
+              "task": "Prepare portfolio site",
+              "details": "Detailed instructions for Prepare portfolio site",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 149,
+              "task": "Write detailed project descriptions",
+              "details": "Detailed instructions for Write detailed project descriptions",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 150,
+              "task": "Update resume",
+              "details": "Detailed instructions for Update resume",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 151,
+              "task": "Prepare for interviews",
+              "details": "Detailed instructions for Prepare for interviews",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 152,
+              "task": "Mock interviews",
+              "details": "Detailed instructions for Mock interviews",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 153,
+              "task": "Revise all key concepts",
+              "details": "Detailed instructions for Revise all key concepts",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 154,
+              "task": "Final portfolio polish",
+              "details": "Detailed instructions for Final portfolio polish",
+              "completed": false,
+              "notes": ""
+            }
           ]
         },
         {
           "week": 3,
           "days": [
-            {"day": 155, "task": "Prepare portfolio site", "details": "Detailed instructions for Prepare portfolio site", "completed": false, "notes": ""},
-            {"day": 156, "task": "Write detailed project descriptions", "details": "Detailed instructions for Write detailed project descriptions", "completed": false, "notes": ""},
-            {"day": 157, "task": "Update resume", "details": "Detailed instructions for Update resume", "completed": false, "notes": ""},
-            {"day": 158, "task": "Prepare for interviews", "details": "Detailed instructions for Prepare for interviews", "completed": false, "notes": ""},
-            {"day": 159, "task": "Mock interviews", "details": "Detailed instructions for Mock interviews", "completed": false, "notes": ""},
-            {"day": 160, "task": "Revise all key concepts", "details": "Detailed instructions for Revise all key concepts", "completed": false, "notes": ""},
-            {"day": 161, "task": "Final portfolio polish", "details": "Detailed instructions for Final portfolio polish", "completed": false, "notes": ""}
+            {
+              "day": 155,
+              "task": "Prepare portfolio site",
+              "details": "Detailed instructions for Prepare portfolio site",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 156,
+              "task": "Write detailed project descriptions",
+              "details": "Detailed instructions for Write detailed project descriptions",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 157,
+              "task": "Update resume",
+              "details": "Detailed instructions for Update resume",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 158,
+              "task": "Prepare for interviews",
+              "details": "Detailed instructions for Prepare for interviews",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 159,
+              "task": "Mock interviews",
+              "details": "Detailed instructions for Mock interviews",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 160,
+              "task": "Revise all key concepts",
+              "details": "Detailed instructions for Revise all key concepts",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 161,
+              "task": "Final portfolio polish",
+              "details": "Detailed instructions for Final portfolio polish",
+              "completed": false,
+              "notes": ""
+            }
           ]
         },
         {
           "week": 4,
           "days": [
-            {"day": 162, "task": "Prepare portfolio site", "details": "Detailed instructions for Prepare portfolio site", "completed": false, "notes": ""},
-            {"day": 163, "task": "Write detailed project descriptions", "details": "Detailed instructions for Write detailed project descriptions", "completed": false, "notes": ""},
-            {"day": 164, "task": "Update resume", "details": "Detailed instructions for Update resume", "completed": false, "notes": ""},
-            {"day": 165, "task": "Prepare for interviews", "details": "Detailed instructions for Prepare for interviews", "completed": false, "notes": ""},
-            {"day": 166, "task": "Mock interviews", "details": "Detailed instructions for Mock interviews", "completed": false, "notes": ""},
-            {"day": 167, "task": "Revise all key concepts", "details": "Detailed instructions for Revise all key concepts", "completed": false, "notes": ""},
-            {"day": 168, "task": "Final portfolio polish", "details": "Detailed instructions for Final portfolio polish", "completed": false, "notes": ""}
+            {
+              "day": 162,
+              "task": "Prepare portfolio site",
+              "details": "Detailed instructions for Prepare portfolio site",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 163,
+              "task": "Write detailed project descriptions",
+              "details": "Detailed instructions for Write detailed project descriptions",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 164,
+              "task": "Update resume",
+              "details": "Detailed instructions for Update resume",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 165,
+              "task": "Prepare for interviews",
+              "details": "Detailed instructions for Prepare for interviews",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 166,
+              "task": "Mock interviews",
+              "details": "Detailed instructions for Mock interviews",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 167,
+              "task": "Revise all key concepts",
+              "details": "Detailed instructions for Revise all key concepts",
+              "completed": false,
+              "notes": ""
+            },
+            {
+              "day": 168,
+              "task": "Final portfolio polish",
+              "details": "Detailed instructions for Final portfolio polish",
+              "completed": false,
+              "notes": ""
+            }
           ]
         }
       ]
